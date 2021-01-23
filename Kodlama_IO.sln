@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.106
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kodlama_IO", "Kodlama_IO\Kodlama_IO.csproj", "{631A6339-B76E-4FCB-8CB0-1E74B5AFA88E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kodlama_IO", "Kodlama_IO\Kodlama_IO.csproj", "{631A6339-B76E-4FCB-8CB0-1E74B5AFA88E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CostumerMenager", "CostumerMenager\CostumerMenager.csproj", "{9FDE0649-550E-4A44-A233-AB118B49D1F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lists", "Lists\Lists.csproj", "{85540339-0E7A-49B6-8C65-AF6D83436075}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionaries", "Dictionaries\Dictionaries.csproj", "{D318D23D-CBC9-4AD9-8DB0-1B47A16FE89F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{631A6339-B76E-4FCB-8CB0-1E74B5AFA88E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{631A6339-B76E-4FCB-8CB0-1E74B5AFA88E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{631A6339-B76E-4FCB-8CB0-1E74B5AFA88E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FDE0649-550E-4A44-A233-AB118B49D1F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FDE0649-550E-4A44-A233-AB118B49D1F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FDE0649-550E-4A44-A233-AB118B49D1F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FDE0649-550E-4A44-A233-AB118B49D1F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85540339-0E7A-49B6-8C65-AF6D83436075}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85540339-0E7A-49B6-8C65-AF6D83436075}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85540339-0E7A-49B6-8C65-AF6D83436075}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85540339-0E7A-49B6-8C65-AF6D83436075}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D318D23D-CBC9-4AD9-8DB0-1B47A16FE89F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D318D23D-CBC9-4AD9-8DB0-1B47A16FE89F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D318D23D-CBC9-4AD9-8DB0-1B47A16FE89F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D318D23D-CBC9-4AD9-8DB0-1B47A16FE89F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
